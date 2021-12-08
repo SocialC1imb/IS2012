@@ -1,0 +1,56 @@
+body{
+    background-color: ivory;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.common{
+    background-color: rgb(80, 64, 47);
+    border: solid 2px black;
+    position: absolute;
+}
+
+.tabNav{
+    color: white;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+}
+
+.tabBod{
+    top: 100px;
+    left: 15px;
+    right: 15px;
+    background-color: white;
+    height: auto;
+}
+
+.tabFoot{
+    text-align: center;
+    font-size: small;
+    bottom: 5px;
+    left: 20px;
+    right: 20px;
+    height: 20px;
+    background-color: white;
+    position: fixed;
+    
+}
+
+.AltFontNav{
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-size: x-large;
+  }
+
+  .tabMenu{
+      text-align: center;
+  }
+
+  .tabNav a {
+      color: rgb(255, 229, 196);
+  }
+
+  .tabNav a:hover {
+    color: rgb(255, 224, 140);
+}

@@ -1,0 +1,26 @@
+.AltFont {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .AltFontNav{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+  }
+  
+  .AltUnderline {
+    text-decoration: underline;
+  }
+  
+  .AltItalic {
+    font-style: italic;
+  }
+
+  /* colors i want
+
+  rgb(145, 114, 93) navbar brown
+
+  rgb(255, 239, 224 background
+
+  */
+
+  
